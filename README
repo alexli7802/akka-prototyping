@@ -1,0 +1,6 @@
+
+AkkaSystem-1
+  java -cp target/scala-2.11/akka-prototyping.jar example.App1
+
+AkkaSystem-2
+  java -cp target/scala-2.11/akka-prototyping.jar example.App2
